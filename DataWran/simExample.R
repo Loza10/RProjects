@@ -133,6 +133,8 @@ getMOM <- function(mean,sd,distribution,...){
     return(out)
 } #end function getMOM
 
+
+# This is where Dr. Studyvin's code ends and mine starts. Essentially using the code to do simulations.
 rm(list=ls())
 
 library(windAC)
